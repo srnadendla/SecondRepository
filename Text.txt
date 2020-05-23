@@ -1,1 +1,2 @@
 Welcome to Git learning. Use git pull to get this file into your local repository.
+Making change to existing file and then use git pull to update the change in the local repository.
